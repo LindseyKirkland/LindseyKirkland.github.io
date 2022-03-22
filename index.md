@@ -10,11 +10,11 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Lindsey Kirkland<br/>
+Lindsey Kirkland!<br/>
 Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32303 <br/>
 
-[Email:beaumont@fsu.edu](mailto:lindseykirkland4@gmail.com)
+[Email:lindseykirkland4@gmail.com](mailto:lindseykirkland4@gmail.com)
 
 [LinkedIn:](https://www.linkedin.com/in/lindseyekirkland)
