@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Instructions for getting your web pages started.
 
-You can use the [editor on GitHub](https://github.com/LindseyKirkland/LindseyKirkland.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A good reference for using GitHub is: [Let's Git started](https://happygitwithr.com/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You will find chapters: 4, 12, 15 and 16 essential for getting started.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Creating the Projects GitHub page.
 
-```markdown
-Syntax highlighted code block
+1. Create a new repository on GitHub named “username.github.io”.  For me: “paulmbeaumont.github.io”
+2. From top menu, choose: Setting -> Pages and set Branch: main /(root)
+3. Click the green “Code” button and copy link.
+4. Open a new “Project” in RStudio” with the same name as your repository. Put this folder some place where you would like to keep it long-term.
+5. Download the “GitHubProjectPage” folder from the Canvas page and drag those files into your project folder. Note that the file extensions are: "index.md" etc. ".md" files are GitHub friendly and can be rendered in readable form on GitHub.
+6. Commit and Push to make sure that your GitHub repository is updated.
+7. Now you can edit your RStudio project files to personalize your GitHub page. Make sure to Commit and Push changes fairly often.
 
-# Header 1
-## Header 2
-### Header 3
+## Adding a new project to your GitHub Projects page.
 
-- Bulleted
-- List
+1.	Create a repository on GitHub with an appropriate name.
+2.	Link the repository to an RStudio Project.
+3.	Edit files in your RStudio project and make sure to name your “main” file as “index.rmd”.
+4.	Push & Commit your edits often.
+5.	In your RStudio Projects page, edit the “projects.md” file to add the project links to your new project.
+6.	Commit & Push
+7.	Make sure that your new project shows up on your Projects web page and the links work.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LindseyKirkland/LindseyKirkland.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
