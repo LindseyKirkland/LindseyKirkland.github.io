@@ -10,11 +10,11 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Paul Beaumont<br/>
+Lindsey Kirkland<br/>
 Department of Economics<br/>
 Florida State University <br/>
-Tallahassee, Florida, 32306 <br/>
+Tallahassee, Florida, 32303 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:beaumont@fsu.edu](mailto:lindseykirkland4@gmail.com)
 
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[LinkedIn:](https://www.linkedin.com/in/lindseyekirkland)
