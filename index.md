@@ -10,7 +10,7 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Lindsey Kirkland!<br/>
+Lindsey Kirkland<br/>
 Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32303 <br/>
